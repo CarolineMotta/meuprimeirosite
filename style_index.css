@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+footer{
+    background-color: rgb(73, 72, 72);
+    color: aliceblue;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 60px;
+    color:white;
+    background-image: url(Imagens/CABECALHO.jpg);
+    background-size: 550px;
+    background-position: 500px;
+    opacity: 0.8;
+}
+
+h3{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    text-align:center
+}
+
+button{
+    background-color: white;
+    text-align: center;
+    border-color: gray;
+    border-radius: 4px;  
+}
+
+section{
+    background-color: rgba(35, 35, 110, 0.521);
+    color:white
+}
