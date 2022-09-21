@@ -12,8 +12,6 @@ h1{
     font-size: 60px;
     color:white;
     background-image: url(Imagens/CABECALHO.jpg);
-    background-size: 550px;
-    background-position: 500px;
     opacity: 0.8;
 }
 
@@ -33,4 +31,8 @@ button{
 section{
     background-color: rgba(35, 35, 110, 0.521);
     color:white
+}
+
+nav{
+    text-align: end;
 }

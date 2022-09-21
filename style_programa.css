@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+    background-size: 550px;
+    background-position: 500px;
+    background-color: aliceblue;
+    color: rgba(108, 85, 214, 0.658);
+}
+
+h4{
+    text-decoration: overline;
+}
+
+body{
+    background-color: rgba(0, 0, 255, 0.158);
+    text-align: center;
+    color: grey
+}
+
+nav{
+    text-align: end;
+}

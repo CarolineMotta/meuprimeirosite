@@ -1,0 +1,17 @@
+h1{
+    background-image: url(Imagens/RS.jpg);
+    color:white;
+    text-align: center;
+    text-align-last: center;
+    opacity: 0.8;
+}
+
+body{
+    background-color: rgba(0, 0, 255, 0.158);
+    text-align: center;
+    color: rgba(55, 39, 94, 0.61)
+}
+
+nav{
+    text-align: end;
+}
